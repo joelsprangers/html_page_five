@@ -1,0 +1,100 @@
+
+*{
+    font-family: Poppins, Verdana, Tahoma, sans-serif;
+    padding:0;
+    margin: 0;
+    
+}
+
+header span{
+    font-size: 12px;  
+    text-align: center;    
+    display: block;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+main{
+   
+    border: solid 1px  #537c73;
+    margin: 20px;
+}
+
+article {
+    font-size: 15px;
+    padding: 10px 10px 20px 20px;
+    border-bottom: solid  #537c73 1px;
+    background-color: #f1f1f1;
+}
+
+.preface{
+    text-align: center;
+    padding: 75px;
+    background-color: #a8b8b4;
+    
+}
+
+article img{
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  header li {
+    float: right;
+    text-align: center;
+    
+  }
+  
+  header li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:#ffda53;
+  }
+  
+  a:visited{
+    color: black;
+  }
+
+  .upper{
+    text-align: center;
+    padding: 14px 16px;
+  }
+
+  picture{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      padding: 20px;
+
+  }
+
+  footer{
+      text-align: center;
+      padding-bottom: 20px;
+      
+
+  }
+
+
+
+
+
+
